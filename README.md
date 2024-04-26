@@ -1,2 +1,3 @@
-# 10-funcion
+# 10 Funciones
+
 Funciones en JS - Riwi
